@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+.container{font-family: KaiTi;text-align: center;margin:auto;padding: 25px;width: 1000px;height:300px;background-image: url()}/*主体设置*/
+				.in{background-color: #6C85EC;border: 0px;color: aliceblue;}/*登录设置*/
+				.head{text-align: center;font-size: 25px;font-family: kaiti}/*标题设置*/
+				.Footer{text-align: center;font-family: kaiti;font-size: 15px;background-color: #16B8E2;height: 50px;width: auto;}/*页脚设置*/
+				.Header{text-align: center;font-family: kaiti; font-size: 30px;color: #020202;font-weight: bold;width: 220px;margin-left: 65px;margin: 100px;}/*页眉设置*/
+				a:hover{background-color: yellowgreen}
+

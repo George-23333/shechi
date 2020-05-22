@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+.Footer{text-align: center;font-family: kaiti;font-size: 15px;background-color: #16B8E2;height: 50px;padding-top: 20px}/*页脚设置*/
+			.Header{text-align: center;font-family: kaiti; font-size: 30px;color: #020202;font-weight: bold;width: 220px;margin-left: 65px;margin: 100px;}/*页眉设置*/
+			.aside{text-align: center;font-family: KaiTi;font-size: 15Px;background-color: #16B8E2;}/*附注栏设置*/
+			.caption{font-size: 20px;font-style: italic;font-weight: bolder}
+			th{background-color: white;width: 200px;font-family: songti;font-weight: lighter}/*这是表格标头格设置*/
+			td{text-align: center;background-color: white;width: 200px;font-family: songti;}/*这是表格的格样式设置*/
+			table{font-family: songti;margin: auto;}/*这是表格样式设置*/
+			thead{font-family: songti;font-size: 30px;;text-align: center;;}/*这是表头设置*/
+			tbody{border: solid 1px #000000 center}/*这是表格主体设置*/
+			.Name{}/*这是表格名字设置*/
+			.Row{background-color: #FFFFFF}/*这是表格行分组样式设置*/
+			a:hover{background-color: yellowgreen}
